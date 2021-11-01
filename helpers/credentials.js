@@ -1,0 +1,5 @@
+const SCREENSHOT_API_TOKEN = "<SCREENSHOT_API_TOKEN>";
+
+module.exports = {
+  SCREENSHOT_API_TOKEN,
+};

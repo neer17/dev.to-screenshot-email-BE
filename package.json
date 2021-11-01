@@ -1,0 +1,16 @@
+{
+  "name": "dev.to-screenshot-email-BE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.0"
+  }
+}
